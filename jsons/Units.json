@@ -279,8 +279,6 @@
         "movement": 2,
         "strength": 5,
         "cost": 25,
-        "obsoleteTech": "Steam Power",
-        "upgradesTo": "Airship",
         "uniques": [
             "May upgrade to [Archer] through ruins-like effects",
             "Never appears as a Barbarian unit"
