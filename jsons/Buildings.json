@@ -940,8 +940,7 @@
             "[+1] Movement <for [{Military} {Water}] units>",
             "[+1 Gold] from [Water] tiles [in this city]",
             "[+1] Sight <for [{Military} {Water}] units>",
-            "Gain a free [Lighthouse] [in this city]",
-            "Free [Quinquereme] appears"
+            "Gain a free [Lighthouse] [in this city]"
         ],
         "requiredTech": "Optics",
         "quote": "'They that go down to the sea in ships, that do business in great waters; these see the works of the Lord, and his wonders in the deep.' - The Bible, Psalms 107:23-24"
@@ -1122,7 +1121,6 @@
         "uniques": [
             "Free [Warrior] appears",
             "Free [Archer] appears",
-            "Free [Horseman] appears",
             "Free [Spearman] appears"
         ],
         "quote": "'Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your own beloved sons, and they will stand by you even unto death.' - Sun Tzu"
@@ -1505,8 +1503,7 @@
             "Must be next to [Desert]",
             "[+1 Food, +1 Production] from [Desert] tiles without [Flood plains] [in this city]",
             "[+6 Culture] [in this city] <after discovering [Archaeology]>",
-            "Provides [1] [Trade Route]",
-            "Free [Caravan] appears"
+            "Provides [1] [Trade Route]"
         ],
         "requiredTech": "Currency",
         "quote": "'...who drinks the water I shall give him, says the Lord, will have a spring inside him welling up for eternal life. Let them bring me to your holy mountain in the place where you dwell. Across the desert and through the mountain to the Canyon of the Crescent Moon...' - Indiana Jones"
@@ -1566,7 +1563,6 @@
             "Must be next to [Coast]",
             "[+2 Gold] from [Land Trade Route (Gold)] tiles [in this city]",
             "[+2 Gold] from [Sea Trade Route (Gold)] tiles [in this city]",
-            "Free [Cargo Ship] appears",
             "Provides [1] [Trade Route]"
         ],
         "requiredTech": "Iron Working",
@@ -2109,7 +2105,6 @@
         "maintenance": 1,
         "requiredBuilding": "Barracks",
         "uniques": [
-            "Free [Reislaufer] appears",
             "New [Military] units start with [15] Experience [in this city]",
             "All newly-trained [{Land} {Military}] units [in this city] receive the [Mountaineer] promotion",
             "Destroyed when the city is captured"
