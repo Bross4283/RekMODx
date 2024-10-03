@@ -607,7 +607,6 @@
                 "name": "Mercenary Army",
                 "uniques": [
                     "Comment [Allows purchasing [Landsknecht] at [Civil Service]]",
-                    "Comment [Allows purchasing [Foreign Legion] at [Replaceable Parts]]",
                     "Provides [1] [Policies]"
                 ],
                 "row": 1,
@@ -1005,7 +1004,6 @@
             {
                 "name": "Volunteer Army",
                 "uniques": [
-                    "[3] free [Foreign Legion] units appear",
                     "[3] units cost no maintenance",
                     "[Gunpowder] units gain the [Morale] promotion",
                     "All newly-trained [Gunpowder] units [in all cities] receive the [Morale] promotion",
