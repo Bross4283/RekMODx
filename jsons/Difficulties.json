@@ -1,5 +1,33 @@
 [
     {
+        "name": "Sandbox",
+        "baseHappiness": 5,
+        "extraHappinessPerLuxury": 1,
+        "researchCostModifier": 0.5,
+        "unitCostModifier": 0.01,
+        "unitSupplyBase": 15,
+        "unitSupplyPerCity": 5,
+        "buildingCostModifier": 0.01,
+        "policyCostModifier": 0.5,
+        "unhappinessModifier": 0.5,
+        "barbarianBonus": 1.5,
+        "playerBonusStartingUnits": [], // Note that the units from Eras.json are added to this pool. This should only contain bonus starting units.
+        "aiCityGrowthModifier": 1, // that is to say it'll take them 1.6 times as long to grow the city
+        "aiUnitCostModifier": 1,
+        "aiBuildingCostModifier": 1,
+        "aiWonderCostModifier": 1,
+        "aiBuildingMaintenanceModifier": 1,
+        "aiUnitMaintenanceModifier": 1,
+        "aiUnitSupplyModifier": 0,
+        "aiFreeTechs": [],
+        "aiMajorCivBonusStartingUnits": [],
+        "aiCityStateBonusStartingUnits": [],
+        "aiUnhappinessModifier": 1,
+        "aisExchangeTechs": false,
+        "turnBarbariansCanEnterPlayerTiles": 0,
+        "clearBarbarianCampReward": 50
+    },
+    {
         "name": "Settler",
         "baseHappiness": 15,
         "extraHappinessPerLuxury": 1,
